@@ -1,2 +1,2 @@
 # Capsule Space Platformer
-A simple platformer game made for an exam as a project in C#.
+A simple platformer game made for an exam as a project in C# with the help of my colleague Ruggero.
